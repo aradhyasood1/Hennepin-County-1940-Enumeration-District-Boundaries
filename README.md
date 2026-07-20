@@ -28,15 +28,13 @@ The digitized spatial boundaries for the 1940 Enumeration District (ED) maps wer
 
 **Referenced by**
 
-https://github.com/aradhyasood1/The-Long-Shadow-of-Housing-Discrimination-Evidence-from-Racial-Covenants
+https://doi.org/10.1093/restud/rdag079.
 
 https://m-almagro.github.io/Covenants_Structural_Historic.pdf
 
 **Related to**
 
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4606234
-
-https://aradhyasood1.github.io/Sood_Solberg_Covenants_February2026.pdf
+https://doi.org/10.1093/restud/rdag079.
 
 https://m-almagro.github.io/Covenants_Structural_Historic.pdf
 
