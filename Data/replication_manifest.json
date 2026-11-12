@@ -1,0 +1,182 @@
+{
+  "description": "Exact project ED inputs supplied for replication.",
+  "layers": [
+    {
+      "year": "1910",
+      "features": 221,
+      "crs": "EPSG:26915",
+      "properties": {
+        "ED_int": "int:10",
+        "Notes": "str:254"
+      },
+      "files": [
+        {
+          "path": "Data/1910/ED_1910_Suburbs_v6.shp",
+          "pipeline_input": "Data/raw/ED_1910_Suburbs_v6.shp",
+          "sha256": "9eeddffc1ce3ad0c21239d23c581d8ecc5d1c1960d7f37466e14b850ac862d7d",
+          "bytes": 160688
+        },
+        {
+          "path": "Data/1910/ED_1910_Suburbs_v6.shx",
+          "pipeline_input": "Data/raw/ED_1910_Suburbs_v6.shx",
+          "sha256": "f94a261cc77f0a8b91a52c8e2b8a164bf2fdf1a30768d58d2dc1310b5e42ab15",
+          "bytes": 1868
+        },
+        {
+          "path": "Data/1910/ED_1910_Suburbs_v6.dbf",
+          "pipeline_input": "Data/raw/ED_1910_Suburbs_v6.dbf",
+          "sha256": "b0acac5b88082f2f2a0552da30997d6764510f30a566b241bd54d944519187d3",
+          "bytes": 58663
+        },
+        {
+          "path": "Data/1910/ED_1910_Suburbs_v6.prj",
+          "pipeline_input": "Data/raw/ED_1910_Suburbs_v6.prj",
+          "sha256": "63d016614dcdd3ff43d9394ae59aa32a9d74d1610d3e77134e7da0fc8b1b6899",
+          "bytes": 424
+        }
+      ]
+    },
+    {
+      "year": "1920",
+      "features": 271,
+      "crs": "EPSG:26915",
+      "properties": {
+        "Notes": "str:250",
+        "ED_int": "int:10"
+      },
+      "files": [
+        {
+          "path": "Data/1920/ED_1920_Suburbs_v4.shp",
+          "pipeline_input": "Data/raw/ED_1920_Suburbs_v4.shp",
+          "sha256": "459513ec6910c5ad618a796c2ef556d908423ba980879991c69921c29dc7a09d",
+          "bytes": 168496
+        },
+        {
+          "path": "Data/1920/ED_1920_Suburbs_v4.shx",
+          "pipeline_input": "Data/raw/ED_1920_Suburbs_v4.shx",
+          "sha256": "58128eff974e9a14cdc898fdfc656d24658394f9618ccef3cd51eeaefb159525",
+          "bytes": 2268
+        },
+        {
+          "path": "Data/1920/ED_1920_Suburbs_v4.dbf",
+          "pipeline_input": "Data/raw/ED_1920_Suburbs_v4.dbf",
+          "sha256": "2159caa013a8e55fc04c7ab7887dd32aea19456faab037cb81bcf4e8303d36d0",
+          "bytes": 70829
+        },
+        {
+          "path": "Data/1920/ED_1920_Suburbs_v4.prj",
+          "pipeline_input": "Data/raw/ED_1920_Suburbs_v4.prj",
+          "sha256": "63d016614dcdd3ff43d9394ae59aa32a9d74d1610d3e77134e7da0fc8b1b6899",
+          "bytes": 424
+        }
+      ]
+    },
+    {
+      "year": "1930",
+      "features": 326,
+      "crs": "EPSG:26915",
+      "properties": {
+        "ED_int": "int:10",
+        "Notes": "str:254"
+      },
+      "files": [
+        {
+          "path": "Data/1930/ED_1930_Suburbs_v4.shp",
+          "pipeline_input": "Data/raw/ED_1930_Suburbs_v4.shp",
+          "sha256": "45f6d6473b1d6e1d7b9e11de1668b4838a674362b36603b4a01e520e35b41039",
+          "bytes": 182664
+        },
+        {
+          "path": "Data/1930/ED_1930_Suburbs_v4.shx",
+          "pipeline_input": "Data/raw/ED_1930_Suburbs_v4.shx",
+          "sha256": "18e5fb273446523eb85fe75d0e7080a0990812f3f7b16a918635ccd0ef89349c",
+          "bytes": 2708
+        },
+        {
+          "path": "Data/1930/ED_1930_Suburbs_v4.dbf",
+          "pipeline_input": "Data/raw/ED_1930_Suburbs_v4.dbf",
+          "sha256": "ecf41b1d94fe63bacb21d77f0286fe9a314bfcb732dbde7c2ca1cefde7c4fd39",
+          "bytes": 86488
+        },
+        {
+          "path": "Data/1930/ED_1930_Suburbs_v4.prj",
+          "pipeline_input": "Data/raw/ED_1930_Suburbs_v4.prj",
+          "sha256": "63d016614dcdd3ff43d9394ae59aa32a9d74d1610d3e77134e7da0fc8b1b6899",
+          "bytes": 424
+        }
+      ]
+    },
+    {
+      "year": "1940 analysis",
+      "features": 482,
+      "crs": "EPSG:4326",
+      "properties": {
+        "Notes": "str:50",
+        "sup_dist": "int32:5",
+        "ED_int": "int:10",
+        "FULL_ED": "int:10",
+        "AB_suffix": "int:10"
+      },
+      "files": [
+        {
+          "path": "Data/1940_analysis/enumdist_corrected.shp",
+          "pipeline_input": "Data/raw/enumdist_corrected.shp",
+          "sha256": "9a7dd9c13d0850df7a06ad3153ac85f04c73722d886ebc93c3e9311ae8dc4a35",
+          "bytes": 190548
+        },
+        {
+          "path": "Data/1940_analysis/enumdist_corrected.shx",
+          "pipeline_input": "Data/raw/enumdist_corrected.shx",
+          "sha256": "854663dc32fb3284a71e619ed9c09f5b626895bf6d7a513a4d5790ef3d05a836",
+          "bytes": 3956
+        },
+        {
+          "path": "Data/1940_analysis/enumdist_corrected.dbf",
+          "pipeline_input": "Data/raw/enumdist_corrected.dbf",
+          "sha256": "626156274011cee8b8da057aae29fb4d55012b7f7f4551c6dc9a17e9b3dd27e0",
+          "bytes": 41646
+        },
+        {
+          "path": "Data/1940_analysis/enumdist_corrected.prj",
+          "pipeline_input": "Data/raw/enumdist_corrected.prj",
+          "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
+          "bytes": 145
+        }
+      ]
+    }
+  ],
+  "public_1940_baseline_comparison": [
+    {
+      "component": "shp",
+      "identical": true,
+      "local_sha256": "bbbc0cf97d8fc72aeec1c0ffc600598e5214cf7f3e855539e528dfb800b3fc95",
+      "public_sha256": "bbbc0cf97d8fc72aeec1c0ffc600598e5214cf7f3e855539e528dfb800b3fc95"
+    },
+    {
+      "component": "dbf",
+      "identical": true,
+      "local_sha256": "e15c09e861b4510cd826e74c2fbc8c1cf5bf510458c8ca0a030adba4c80a6adc",
+      "public_sha256": "e15c09e861b4510cd826e74c2fbc8c1cf5bf510458c8ca0a030adba4c80a6adc"
+    },
+    {
+      "component": "prj",
+      "identical": true,
+      "local_sha256": "63d016614dcdd3ff43d9394ae59aa32a9d74d1610d3e77134e7da0fc8b1b6899",
+      "public_sha256": "63d016614dcdd3ff43d9394ae59aa32a9d74d1610d3e77134e7da0fc8b1b6899"
+    },
+    {
+      "component": "shx",
+      "identical": true,
+      "local_sha256": "f21742f3e1553c77ebd2e0eafc20ba01d1f46648bbb8db4ed4485e72b0410e41",
+      "public_sha256": "f21742f3e1553c77ebd2e0eafc20ba01d1f46648bbb8db4ed4485e72b0410e41"
+    }
+  ],
+  "analysis_1940_comparison": {
+    "baseline_features": 525,
+    "analysis_features": 482,
+    "baseline_ids": 525,
+    "analysis_ids": 482,
+    "absent_target_ids": [],
+    "districts_with_geometry_difference_over_1m2": 482
+  }
+}
