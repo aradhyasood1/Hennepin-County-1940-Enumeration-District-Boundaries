@@ -105,44 +105,6 @@
           "bytes": 424
         }
       ]
-    },
-    {
-      "year": "1940 analysis",
-      "features": 482,
-      "crs": "EPSG:4326",
-      "properties": {
-        "Notes": "str:50",
-        "sup_dist": "int32:5",
-        "ED_int": "int:10",
-        "FULL_ED": "int:10",
-        "AB_suffix": "int:10"
-      },
-      "files": [
-        {
-          "path": "Data/1940_analysis/enumdist_corrected.shp",
-          "pipeline_input": "Data/raw/enumdist_corrected.shp",
-          "sha256": "9a7dd9c13d0850df7a06ad3153ac85f04c73722d886ebc93c3e9311ae8dc4a35",
-          "bytes": 190548
-        },
-        {
-          "path": "Data/1940_analysis/enumdist_corrected.shx",
-          "pipeline_input": "Data/raw/enumdist_corrected.shx",
-          "sha256": "854663dc32fb3284a71e619ed9c09f5b626895bf6d7a513a4d5790ef3d05a836",
-          "bytes": 3956
-        },
-        {
-          "path": "Data/1940_analysis/enumdist_corrected.dbf",
-          "pipeline_input": "Data/raw/enumdist_corrected.dbf",
-          "sha256": "626156274011cee8b8da057aae29fb4d55012b7f7f4551c6dc9a17e9b3dd27e0",
-          "bytes": 41646
-        },
-        {
-          "path": "Data/1940_analysis/enumdist_corrected.prj",
-          "pipeline_input": "Data/raw/enumdist_corrected.prj",
-          "sha256": "a02a27b1d1982c8516d83398e85a3c8b1aef1713c13ef4d84d7bde17430c07c4",
-          "bytes": 145
-        }
-      ]
     }
   ],
   "public_1940_baseline_comparison": [
@@ -170,13 +132,5 @@
       "local_sha256": "f21742f3e1553c77ebd2e0eafc20ba01d1f46648bbb8db4ed4485e72b0410e41",
       "public_sha256": "f21742f3e1553c77ebd2e0eafc20ba01d1f46648bbb8db4ed4485e72b0410e41"
     }
-  ],
-  "analysis_1940_comparison": {
-    "baseline_features": 525,
-    "analysis_features": 482,
-    "baseline_ids": 525,
-    "analysis_ids": 482,
-    "absent_target_ids": [],
-    "districts_with_geometry_difference_over_1m2": 482
-  }
+  ]
 }

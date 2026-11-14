@@ -4,7 +4,7 @@
 
 Provides the digitized shapefile for the 1940 Enumeration District boundaries of Hennepin County.
 
-The repository also provides project boundary layers for 1910, 1920 and 1930, together with the 1940 analysis layer. See [boundary downloads, versions and checksums](Data/README.md).
+The repository also provides project boundary layers for 1910, 1920 and 1930. See [boundary downloads, versions and checksums](Data/README.md).
 
 **Authors**
 
