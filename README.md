@@ -4,6 +4,8 @@
 
 Provides the digitized shapefile for the 1940 Enumeration District boundaries of Hennepin County.
 
+Digitized Enumeration District boundaries for [1910](Data/1910), [1920](Data/1920) and [1930](Data/1930) are also available.
+
 **Authors**
 
 Milena Almagro 
